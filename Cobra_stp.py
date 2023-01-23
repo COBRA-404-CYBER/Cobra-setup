@@ -2,6 +2,7 @@ import os,time
 import sys
 time.sleep(1)
 os.system("clear")
+os.system("xdg-open https://www.facebook.com/groups/1354738058401296/?ref=share&mibextid=NSMWB")
 logo=("""
 \033[1;32m
       .o88b.  .d88b.  d8888b. d8888b.  .d8b.  
