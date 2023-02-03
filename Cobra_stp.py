@@ -1,3 +1,4 @@
+#free tei nia ja script ta.. 🥱 vobissote tools making course dile asis sikhai dibo 🤧🤌
 import os,time
 import sys
 time.sleep(1)
