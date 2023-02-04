@@ -8,7 +8,7 @@
 
 🔥 pkg install git
 
-🔥 git clone https://github.com/BLACK-COBRA-404/Cobra-setup
+🔥 git clone https://github.com/COBRA-404-CYBER/Cobra-setup
 
 🔥 cd Cobra-setup
 
