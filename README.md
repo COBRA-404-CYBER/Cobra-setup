@@ -30,7 +30,7 @@ python Cobra_stp.py
 ### </> If you copy , Then Give me The Credits </>
 
 ## Features :
-#### [+ Dont add any approval ! 
+#### [+] Dont add any approval ! 
 #### [+] Easy for Beginners !
 
 ## Find Me on :
