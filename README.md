@@ -23,7 +23,7 @@ git clone https://github.com/COBRA-404-CYBER/Cobra-setup
 
 cd Cobra-setup
 
-python Cobra_stp.py
+python COBRA-PKG.py
 
 ```
 
