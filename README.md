@@ -1,4 +1,4 @@
-[CODED BY FARHAN KHAN]
+[CODED BY TERTHO]
 
 <a href="#"><img title="COBRA-404-CYBER" src="https://k.top4top.io/p_2596pji1e0.jpg"></a>
 
